@@ -1,0 +1,26 @@
+
+
+.date{
+  display: inline-block;
+  font-size:  14px;
+  color: #999;
+  margin: 0 10px;
+  font-weight: normal;
+}
+
+button{
+  cursor: pointer;
+  margin-left: 10px;
+  background-color: cadetblue;
+  border: 1px solid #000;
+  color: azure;
+}
+
+.isDone{
+  color: #999;
+  text-decoration: line-through;
+}
+
+.isDone_btn{
+  color: #999;
+}
